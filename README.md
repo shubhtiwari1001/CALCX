@@ -1,2 +1,0 @@
-# CALCX
-myapp
